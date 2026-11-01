@@ -207,7 +207,7 @@ cynbit-backend-assesment/
 ### Step 1: Clone Repository & Create Virtual Environment
 ```bash
 # Clone the repository
-git clone https://github.com/chahatmodi/cynbit-backend-assesment.git
+git clone https://github.com/ChahatModi18/cynbit-backend-assesment.git
 cd cynbit-backend-assesment
 
 # Create a virtual environment
@@ -567,7 +567,7 @@ Final-Year B.Tech Computer Science & Engineering
 JECRC University, Jaipur  
 - **Email**: [chahatmodi2604@gmail.com](mailto:chahatmodi2604@gmail.com)
 - **LinkedIn**: [linkedin.com/in/chahat-modi](https://www.linkedin.com/in/chahat-modi)
-- **GitHub**: [github.com/chahatmodi](https://github.com/chahatmodi)
+- **GitHub**: [github.com/ChahatModi18](https://github.com/ChahatModi18)
 - **Portfolio**: [chahatmodi.github.io](https://chahatmodi.github.io/)
 
 ---
