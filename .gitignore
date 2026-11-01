@@ -71,3 +71,6 @@ cover/
 Thumbs.db
 desktop.ini
 
+
+# Private Candidate Interview Preparation (Local only)
+docs/interview_preparation_guide.md

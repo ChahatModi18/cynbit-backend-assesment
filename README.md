@@ -172,7 +172,6 @@ cynbit-backend-assesment/
 │   ├── Cynbit_Backend_Technical_Audit_Report.pdf  # 6-page professional PDF report
 │   ├── evidence_register.md       # 18-point classified evidence log
 │   ├── findings.md                # FIND-001 through FIND-010 technical audit findings
-│   ├── interview_preparation_guide.md # Interview walkthrough & technical Q&A guide
 │   ├── security_and_code_review.md # Internal security controls audit & static scan report
 │   └── technical_audit_report.md  # Master 16-section technical audit report
 ├── scripts/                       # Operational & verification automation utilities
@@ -556,7 +555,6 @@ All technical reports, architecture specifications, and documentation are availa
 - 📐 **System Architecture & Data Modeling**: [`docs/architecture.md`](docs/architecture.md)
 - 📑 **OpenAPI Specification & Contract**: [`docs/api_documentation.md`](docs/api_documentation.md)
 - 🛡️ **Internal Security & Code Quality Review**: [`docs/security_and_code_review.md`](docs/security_and_code_review.md)
-- 🎓 **Interview Walkthrough & Technical Q&A Guide**: [`docs/interview_preparation_guide.md`](docs/interview_preparation_guide.md)
 
 ---
 
